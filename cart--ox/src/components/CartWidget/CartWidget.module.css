@@ -1,0 +1,8 @@
+img{
+    background-color: black;
+    text-align: center;
+    margin: right;
+    width: 10px; /* Ajusta el tamaño de la imagen según tus necesidades */
+    height: auto;
+    display: flex;
+}

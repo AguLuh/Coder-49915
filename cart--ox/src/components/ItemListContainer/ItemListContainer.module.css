@@ -1,0 +1,22 @@
+/* En tu archivo de estilos CSS (por ejemplo, App.css) */
+.item-list-container {
+    text-align: center; /* Alinea los elementos al centro si es necesario */
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around; /* Ajusta el espacio entre los elementos */
+  }
+  
+  li {
+    margin: 10px; /* Agrega un margen entre los elementos */
+    text-align: center; /* Alinea el texto al centro si es necesario */
+  }
+  
+  img {
+    width: 300px; /* Ajusta el tamaño de la imagen según tus necesidades */
+    height: auto;
+    display: flex;
+  }
+  
