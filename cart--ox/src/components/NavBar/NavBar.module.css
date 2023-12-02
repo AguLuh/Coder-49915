@@ -1,8 +1,10 @@
 /* En tu archivo de estilos CSS (por ejemplo, App.css) */
-.navbar {
+.NavBar {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: darkred;
+    height: 75px;
   }
   
   ul {
@@ -17,7 +19,4 @@
     font-weight: bold;
     justify-content: space-between;
     display: flex;
-  }
-  nav{
-    background-color: darkred;
   }

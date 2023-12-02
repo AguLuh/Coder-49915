@@ -1,8 +1,9 @@
-img{
-    background-color: black;
+.CartWidget {
+    background-color:rgb(151, 39, 39);
     text-align: center;
-    margin: right;
-    width: 10px; /* Ajusta el tamaño de la imagen según tus necesidades */
     height: auto;
     display: flex;
+}
+.CartWidget img{
+    width: 30px;
 }
